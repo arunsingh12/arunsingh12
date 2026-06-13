@@ -34,18 +34,18 @@
 
 🔥 Love building scalable products and solving real-world problems
 
-📫 Reach me at: **your-email@gmail.com**
+📫 Reach me at: **aruns7010@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/arun-singh-a94220159/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:aruns7010@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -144,7 +144,7 @@
 - 🚀 Building scalable full-stack applications  
 - 🤖 Exploring AI automation workflows  
 - 📱 FlutterFlow & No-Code Development  
-- 🌐 Advanced MERN & Laravel Projects  
+- 🌐 Advanced MERN Projects  
 
 ---
 
