@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Singh</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack | Laravel | FlutterFlow | AI Automation
+🚀 Full Stack Developer | MERN Stack | FlutterFlow | AI Automation
 </h3>
 
 <p align="center">
